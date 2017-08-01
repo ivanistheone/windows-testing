@@ -19,5 +19,10 @@ Actual: cannot remove drive bcs drive is in use
 See logs for instrumented veriosn with lots print statements around tasks:
 
 
-Thread counts change by 7.
+PROBABLE CAUSE:   the importchannel and importcontent tasks are scheduled differently
+(one doesn't have progress updating) but they are being emitted anyway
+and it seems the problem is nobody "listens" to these progress updates
+so the task keeps running...
+
+
 

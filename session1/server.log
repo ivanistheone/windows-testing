@@ -1,0 +1,1320 @@
+INFO:cherrypy.access.59795944:127.0.0.1 - - [01/Aug/2017:14:41:40] "GET /static/default_frontend/default_frontend0.6.dev020170801203152-git.css HTTP/1.1" 200 710933 "http://127.0.0.1:8080/setup_wizard/" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0"
+INFO:cherrypy.access.59795944:127.0.0.1 - - [01/Aug/2017:14:41:40] "GET /static/setup_wizard/setup_wizard-0.6.dev020170801203152-git.js HTTP/1.1" 200 18976 "http://127.0.0.1:8080/setup_wizard/" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0"
+INFO:cherrypy.access.59795944:127.0.0.1 - - [01/Aug/2017:14:41:40] "GET /static/default_frontend/default_frontend-0.6.dev020170801203152-git.js HTTP/1.1" 200 497733 "http://127.0.0.1:8080/setup_wizard/" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0"
+INFO:cherrypy.access.59795944:127.0.0.1 - - [01/Aug/2017:14:41:40] "GET /static/setup_wizard/setup_wizard0.6.dev020170801203152-git.css HTTP/1.1" 200 6656 "http://127.0.0.1:8080/setup_wizard/" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0"
+INFO:cherrypy.access.59795944:127.0.0.1 - - [01/Aug/2017:14:41:40] "GET /static/setup_wizard/logo-min.png?eb2802030a74ce18b835e13478e6c62e HTTP/1.1" 200 13424 "http://127.0.0.1:8080/setup_wizard/" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0"
+Installed 2 object(s) from 1 fixture(s)
+DEBUG:rsa.key:find_p_q(1024): Finding p
+DEBUG:rsa.key:find_p_q(1024): Finding q
+INFO:cherrypy.access.59795944:127.0.0.1 - - [01/Aug/2017:14:42:02] "GET /static/management_module/management_module0.6.dev020170801203152-git.css HTTP/1.1" 200 49488 "http://127.0.0.1:8080/management/" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0"
+INFO:cherrypy.access.59795944:127.0.0.1 - - [01/Aug/2017:14:42:02] "GET /static/management_module/management_module-0.6.dev020170801203152-git.js HTTP/1.1" 200 203084 "http://127.0.0.1:8080/management/" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0"
+INFO:cherrypy.access.59795944:127.0.0.1 - - [01/Aug/2017:14:42:03] "GET /static/default_frontend/MaterialIcons-Regular.woff2?570eb83859dc23dd0eec423a49e147fe HTTP/1.1" 200 44300 "http://127.0.0.1:8080/static/default_frontend/default_frontend0.6.dev020170801203152-git.css" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0"
+INFO:barbequeue.common.utils.MESSAGEPROCESSOR[twelve-mobile-texas-oscar]:Started new MESSAGEPROCESSOR thread ID#twelve-mobile-texas-oscar
+INFO:barbequeue.common.utils.SCHEDULER[oregon-mars-hotel-hawaii]:Started new SCHEDULER thread ID#oregon-mars-hotel-hawaii
+INFO:barbequeue.common.utils.WORKERMESSAGEHANDLER[uranus-alabama-ack-coffee]:Started new WORKERMESSAGEHANDLER thread ID#uranus-alabama-ack-coffee
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+[37mINFO     In startlocalimport...[0m
+INFO:kolibri.tasks.api:In startlocalimport...
+[37mINFO     Scheduled task with job_id = eee50ac9043b4e90b6da40edfe460268[0m
+INFO:kolibri.tasks.api:Scheduled task with job_id = eee50ac9043b4e90b6da40edfe460268
+[37mINFO     Job status:<Job id: eee50ac9043b4e90b6da40edfe460268 state: SCHEDULED progress: 0/0 func: kolibri.tasks.api._localimport>[0m
+INFO:kolibri.tasks.api:Job status:<Job id: eee50ac9043b4e90b6da40edfe460268 state: SCHEDULED progress: 0/0 func: kolibri.tasks.api._localimport>
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'SCHEDULED', 'exception': 'None', 'traceback': '', 'percentage': 0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'SCHEDULED', 'exception': 'None', 'traceback': '', 'percentage': 0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:barbequeue.messaging.backends.inmem:SEND MAILBOX: e8fd65b4c3354ca39c53085f44840146 MSG: _Message(type='START_JOB', message={'job': <Job id: eee50ac9043b4e90b6da40edfe460268 state: SCHEDULED progress: 0/0 func: kolibri.tasks.api._localimport>})
+DEBUG:barbequeue.messaging.backends.inmem:POP MAILBOX: e8fd65b4c3354ca39c53085f44840146 MSG: _Message(type='START_JOB', message={'job': <Job id: eee50ac9043b4e90b6da40edfe460268 state: SCHEDULED progress: 0/0 func: kolibri.tasks.api._localimport>})
+[37mINFO     in _localimport >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>[0m
+INFO:kolibri.tasks.api:in _localimport >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[37mINFO     Copying in data for channel id 8ca4d9403d4d5d938b4aa498a24c8177[0m
+INFO:kolibri.content.management.commands.importchannel:Copying in data for channel id 8ca4d9403d4d5d938b4aa498a24c8177
+[37mINFO     in _transfer. method = copychannel_id = 8ca4d9403d4d5d938b4aa498a24c8177[0m
+INFO:kolibri.content.management.commands.importchannel:in _transfer. method = copychannel_id = 8ca4d9403d4d5d938b4aa498a24c8177
+[37mINFO     In Transfer.__init__ with {'started': False, 'closed': False, 'finalized': False, 'dest': u'C:\\Users\\IEUser\\.kolibri\\content\\databases\\8ca4d9403d4d5d938b4aa498a24c8177.sqlite3', 'completed': False, 'source': 'F:\\KOLIBRI_DATA\\content\\databases\\8ca4d9403d4d5d938b4aa498a24c8177.sqlite3', 'timeout': 20, 'block_size': 2097152, 'dest_tmp': u'C:\\Users\\IEUser\\.kolibri\\content\\databases\\8ca4d9403d4d5d938b4aa498a24c8177.sqlite3.transfer'}[0m
+INFO:kolibri.content.utils.transfer:In Transfer.__init__ with {'started': False, 'closed': False, 'finalized': False, 'dest': u'C:\\Users\\IEUser\\.kolibri\\content\\databases\\8ca4d9403d4d5d938b4aa498a24c8177.sqlite3', 'completed': False, 'source': 'F:\\KOLIBRI_DATA\\content\\databases\\8ca4d9403d4d5d938b4aa498a24c8177.sqlite3', 'timeout': 20, 'block_size': 2097152, 'dest_tmp': u'C:\\Users\\IEUser\\.kolibri\\content\\databases\\8ca4d9403d4d5d938b4aa498a24c8177.sqlite3.transfer'}
+DEBUG:root:Not creating directory 'C:\Users\IEUser\.kolibri\content\databases' as it already exists.
+[37mINFO     in Transfer.__enter__[0m
+INFO:kolibri.content.utils.transfer:in Transfer.__enter__
+[37mINFO     in FileCopy.start  _____________[0m
+INFO:kolibri.content.utils.transfer:in FileCopy.start  _____________
+[37mINFO     in filetransfer context...[0m
+INFO:kolibri.content.management.commands.importchannel:in filetransfer context...
+  0%|                                                                                       | 0/240640 [00:00<?, ?it/s][37mINFO     processing chunk:::[0m
+INFO:kolibri.content.management.commands.importchannel:processing chunk:::
+[37mINFO     in FileCopy.close  _____________[0m
+INFO:kolibri.content.utils.transfer:in FileCopy.close  _____________
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'QUEUED', 'exception': 'None', 'traceback': '', 'percentage': 0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'QUEUED', 'exception': 'None', 'traceback': '', 'percentage': 0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+100%|####################################################################| 240640/240640 [00:00<00:00, 24064022.95it/s]
+[37mINFO     in Transfer.__exit__[0m
+INFO:kolibri.content.utils.transfer:in Transfer.__exit__
+[37mINFO     should have exited filetransfer context by now...[0m
+INFO:kolibri.content.management.commands.importchannel:should have exited filetransfer context by now...
+[37mINFO     in _transfer. method = copychannel_id = 8ca4d9403d4d5d938b4aa498a24c8177[0m
+INFO:kolibri.content.management.commands.importcontent:in _transfer. method = copychannel_id = 8ca4d9403d4d5d938b4aa498a24c8177
+  0%|                                                                                     | 0/32653771 [00:00<?, ?it/s][37mINFO     In Transfer.__init__ with {'started': False, 'closed': False, 'finalized': False, 'dest': u'C:\\Users\\IEUser\\.kolibri\\content\\storage\\a\\2\\a2a7aed34e8a17e11f52790ebae1289d.png', 'completed': False, 'source': 'F:\\KOLIBRI_DATA\\content\\storage\\a\\2\\a2a7aed34e8a17e11f52790ebae1289d.png', 'timeout': 20, 'block_size': 2097152, 'dest_tmp': u'C:\\Users\\IEUser\\.kolibri\\content\\storage\\a\\2\\a2a7aed34e8a17e11f52790ebae1289d.png.transfer'}[0m
+INFO:kolibri.content.utils.transfer:In Transfer.__init__ with {'started': False, 'closed': False, 'finalized': False, 'dest': u'C:\\Users\\IEUser\\.kolibri\\content\\storage\\a\\2\\a2a7aed34e8a17e11f52790ebae1289d.png', 'completed': False, 'source': 'F:\\KOLIBRI_DATA\\content\\storage\\a\\2\\a2a7aed34e8a17e11f52790ebae1289d.png', 'timeout': 20, 'block_size': 2097152, 'dest_tmp': u'C:\\Users\\IEUser\\.kolibri\\content\\storage\\a\\2\\a2a7aed34e8a17e11f52790ebae1289d.png.transfer'}
+[37mINFO     in Transfer.__enter__[0m
+INFO:kolibri.content.utils.transfer:in Transfer.__enter__
+[37mINFO     in FileCopy.start  _____________[0m
+INFO:kolibri.content.utils.transfer:in FileCopy.start  _____________
+
+  0%|                                                                                        | 0/18977 [00:00<?, ?it/s]DEBUG:barbequeue.messaging.backends.inmem:SEND MAILBOX: 532782a22c34461abe047c3bf599d909 MSG: _Message(type='JOB_UPDATED', message={'progress': 0.000581157992441363, 'job_id': 'eee50ac9043b4e90b6da40edfe460268', 'total_progress': 1.0, 'stage': ''})
+DEBUG:barbequeue.messaging.backends.inmem:SEND MAILBOX: 532782a22c34461abe047c3bf599d909 MSG: _Message(type='JOB_UPDATED', message={'progress': 0.000581157992441363, 'job_id': 'eee50ac9043b4e90b6da40edfe460268', 'total_progress': 1.0, 'stage': ''})
+[37mINFO     in FileCopy.close  _____________[0m
+INFO:kolibri.content.utils.transfer:in FileCopy.close  _____________
+
+100%|#######################################################################| 18977/18977 [00:00<00:00, 4744311.08it/s][37mINFO     in Transfer.__exit__[0m
+INFO:kolibri.content.utils.transfer:in Transfer.__exit__
+[37mINFO     In Transfer.__init__ with {'started': False, 'closed': False, 'finalized': False, 'dest': u'C:\\Users\\IEUser\\.kolibri\\content\\storage\\4\\c\\4c4ddad6951ed68ed8875f6f5991c2ee.mp4', 'completed': False, 'source': 'F:\\KOLIBRI_DATA\\content\\storage\\4\\c\\4c4ddad6951ed68ed8875f6f5991c2ee.mp4', 'timeout': 20, 'block_size': 2097152, 'dest_tmp': u'C:\\Users\\IEUser\\.kolibri\\content\\storage\\4\\c\\4c4ddad6951ed68ed8875f6f5991c2ee.mp4.transfer'}[0m
+INFO:kolibri.content.utils.transfer:In Transfer.__init__ with {'started': False, 'closed': False, 'finalized': False, 'dest': u'C:\\Users\\IEUser\\.kolibri\\content\\storage\\4\\c\\4c4ddad6951ed68ed8875f6f5991c2ee.mp4', 'completed': False, 'source': 'F:\\KOLIBRI_DATA\\content\\storage\\4\\c\\4c4ddad6951ed68ed8875f6f5991c2ee.mp4', 'timeout': 20, 'block_size': 2097152, 'dest_tmp': u'C:\\Users\\IEUser\\.kolibri\\content\\storage\\4\\c\\4c4ddad6951ed68ed8875f6f5991c2ee.mp4.transfer'}
+[37mINFO     in Transfer.__enter__[0m
+INFO:kolibri.content.utils.transfer:in Transfer.__enter__
+[37mINFO     in FileCopy.start  _____________[0m
+INFO:kolibri.content.utils.transfer:in FileCopy.start  _____________
+
+  0%|                                                                                      | 0/2838915 [00:00<?, ?it/s]DEBUG:root:No job to schedule right now.
+  6%|####2                                                             | 2116129/32653771 [00:00<00:05, 5384553.70it/s]DEBUG:barbequeue.messaging.backends.inmem:SEND MAILBOX: 532782a22c34461abe047c3bf599d909 MSG: _Message(type='JOB_UPDATED', message={'progress': 0.06480504196590342, 'job_id': 'eee50ac9043b4e90b6da40edfe460268', 'total_progress': 1.0, 'stage': ''})
+
+ 74%|#################################################4                 | 2097152/2838915 [00:00<00:00, 6636557.28it/s]DEBUG:barbequeue.messaging.backends.inmem:SEND MAILBOX: 532782a22c34461abe047c3bf599d909 MSG: _Message(type='JOB_UPDATED', message={'progress': 0.06480504196590342, 'job_id': 'eee50ac9043b4e90b6da40edfe460268', 'total_progress': 1.0, 'stage': ''})
+  9%|#####7                                                            | 2857892/32653771 [00:00<00:05, 5798180.71it/s]DEBUG:barbequeue.messaging.backends.inmem:SEND MAILBOX: 532782a22c34461abe047c3bf599d909 MSG: _Message(type='JOB_UPDATED', message={'progress': 0.08752104006609221, 'job_id': 'eee50ac9043b4e90b6da40edfe460268', 'total_progress': 1.0, 'stage': ''})
+
+100%|###################################################################| 2838915/2838915 [00:00<00:00, 6759370.25it/s]DEBUG:barbequeue.messaging.backends.inmem:SEND MAILBOX: 532782a22c34461abe047c3bf599d909 MSG: _Message(type='JOB_UPDATED', message={'progress': 0.08752104006609221, 'job_id': 'eee50ac9043b4e90b6da40edfe460268', 'total_progress': 1.0, 'stage': ''})
+[37mINFO     in FileCopy.close  _____________[0m
+INFO:kolibri.content.utils.transfer:in FileCopy.close  _____________
+
+[37mINFO     in Transfer.__exit__[0m
+INFO:kolibri.content.utils.transfer:in Transfer.__exit__
+[37mINFO     In Transfer.__init__ with {'started': False, 'closed': False, 'finalized': False, 'dest': u'C:\\Users\\IEUser\\.kolibri\\content\\storage\\e\\1\\e1e9fefb1233b79a7a9bbb57566cda8e.mp4', 'completed': False, 'source': 'F:\\KOLIBRI_DATA\\content\\storage\\e\\1\\e1e9fefb1233b79a7a9bbb57566cda8e.mp4', 'timeout': 20, 'block_size': 2097152, 'dest_tmp': u'C:\\Users\\IEUser\\.kolibri\\content\\storage\\e\\1\\e1e9fefb1233b79a7a9bbb57566cda8e.mp4.transfer'}[0m
+INFO:kolibri.content.utils.transfer:In Transfer.__init__ with {'started': False, 'closed': False, 'finalized': False, 'dest': u'C:\\Users\\IEUser\\.kolibri\\content\\storage\\e\\1\\e1e9fefb1233b79a7a9bbb57566cda8e.mp4', 'completed': False, 'source': 'F:\\KOLIBRI_DATA\\content\\storage\\e\\1\\e1e9fefb1233b79a7a9bbb57566cda8e.mp4', 'timeout': 20, 'block_size': 2097152, 'dest_tmp': u'C:\\Users\\IEUser\\.kolibri\\content\\storage\\e\\1\\e1e9fefb1233b79a7a9bbb57566cda8e.mp4.transfer'}
+[37mINFO     in Transfer.__enter__[0m
+INFO:kolibri.content.utils.transfer:in Transfer.__enter__
+[37mINFO     in FileCopy.start  _____________[0m
+INFO:kolibri.content.utils.transfer:in FileCopy.start  _____________
+
+  0%|                                                                                     | 0/13877533 [00:00<?, ?it/s]DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'RUNNING', 'exception': 'None', 'traceback': '', 'percentage': 0.000581157992441363, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'RUNNING', 'exception': 'None', 'traceback': '', 'percentage': 0.000581157992441363, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+ 15%|##########                                                        | 4955044/32653771 [00:00<00:04, 5894453.31it/s]DEBUG:barbequeue.messaging.backends.inmem:SEND MAILBOX: 532782a22c34461abe047c3bf599d909 MSG: _Message(type='JOB_UPDATED', message={'progress': 0.15174492403955428, 'job_id': 'eee50ac9043b4e90b6da40edfe460268', 'total_progress': 1.0, 'stage': ''})
+
+ 15%|#########9                                                        | 2097152/13877533 [00:00<00:01, 7037426.15it/s]DEBUG:barbequeue.messaging.backends.inmem:SEND MAILBOX: 532782a22c34461abe047c3bf599d909 MSG: _Message(type='JOB_UPDATED', message={'progress': 0.15174492403955428, 'job_id': 'eee50ac9043b4e90b6da40edfe460268', 'total_progress': 1.0, 'stage': ''})
+DEBUG:root:No job to schedule right now.
+ 22%|##############2                                                   | 7052196/32653771 [00:01<00:04, 6093735.77it/s]DEBUG:barbequeue.messaging.backends.inmem:SEND MAILBOX: 532782a22c34461abe047c3bf599d909 MSG: _Message(type='JOB_UPDATED', message={'progress': 0.21596880801301632, 'job_id': 'eee50ac9043b4e90b6da40edfe460268', 'total_progress': 1.0, 'stage': ''})
+
+ 30%|###################9                                              | 4194304/13877533 [00:00<00:01, 6898528.03it/s]DEBUG:barbequeue.messaging.backends.inmem:SEND MAILBOX: 532782a22c34461abe047c3bf599d909 MSG: _Message(type='JOB_UPDATED', message={'progress': 0.21596880801301632, 'job_id': 'eee50ac9043b4e90b6da40edfe460268', 'total_progress': 1.0, 'stage': ''})
+ 28%|##################4                                               | 9149348/32653771 [00:01<00:03, 6280700.43it/s]DEBUG:barbequeue.messaging.backends.inmem:SEND MAILBOX: 532782a22c34461abe047c3bf599d909 MSG: _Message(type='JOB_UPDATED', message={'progress': 0.2801926919864784, 'job_id': 'eee50ac9043b4e90b6da40edfe460268', 'total_progress': 1.0, 'stage': ''})
+
+ 45%|#############################9                                    | 6291456/13877533 [00:00<00:01, 6857921.78it/s]DEBUG:barbequeue.messaging.backends.inmem:SEND MAILBOX: 532782a22c34461abe047c3bf599d909 MSG: _Message(type='JOB_UPDATED', message={'progress': 0.2801926919864784, 'job_id': 'eee50ac9043b4e90b6da40edfe460268', 'total_progress': 1.0, 'stage': ''})
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+ 34%|######################3                                          | 11246500/32653771 [00:01<00:03, 6484040.04it/s]DEBUG:barbequeue.messaging.backends.inmem:SEND MAILBOX: 532782a22c34461abe047c3bf599d909 MSG: _Message(type='JOB_UPDATED', message={'progress': 0.3444165759599404, 'job_id': 'eee50ac9043b4e90b6da40edfe460268', 'total_progress': 1.0, 'stage': ''})
+
+ 60%|#######################################8                          | 8388608/13877533 [00:01<00:00, 6903977.77it/s]DEBUG:barbequeue.messaging.backends.inmem:SEND MAILBOX: 532782a22c34461abe047c3bf599d909 MSG: _Message(type='JOB_UPDATED', message={'progress': 0.3444165759599404, 'job_id': 'eee50ac9043b4e90b6da40edfe460268', 'total_progress': 1.0, 'stage': ''})
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'RUNNING', 'exception': 'None', 'traceback': '', 'percentage': 0.2801926919864784, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'RUNNING', 'exception': 'None', 'traceback': '', 'percentage': 0.2801926919864784, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+ 41%|##########################5                                      | 13343652/32653771 [00:02<00:02, 6559688.12it/s]DEBUG:barbequeue.messaging.backends.inmem:SEND MAILBOX: 532782a22c34461abe047c3bf599d909 MSG: _Message(type='JOB_UPDATED', message={'progress': 0.4086404599334025, 'job_id': 'eee50ac9043b4e90b6da40edfe460268', 'total_progress': 1.0, 'stage': ''})
+
+ 76%|#################################################1               | 10485760/13877533 [00:01<00:00, 6861690.91it/s]DEBUG:barbequeue.messaging.backends.inmem:SEND MAILBOX: 532782a22c34461abe047c3bf599d909 MSG: _Message(type='JOB_UPDATED', message={'progress': 0.4086404599334025, 'job_id': 'eee50ac9043b4e90b6da40edfe460268', 'total_progress': 1.0, 'stage': ''})
+DEBUG:root:No job to schedule right now.
+ 47%|##############################7                                  | 15440804/32653771 [00:02<00:02, 6557859.44it/s]DEBUG:barbequeue.messaging.backends.inmem:SEND MAILBOX: 532782a22c34461abe047c3bf599d909 MSG: _Message(type='JOB_UPDATED', message={'progress': 0.47286434390686455, 'job_id': 'eee50ac9043b4e90b6da40edfe460268', 'total_progress': 1.0, 'stage': ''})
+
+ 91%|##########################################################9      | 12582912/13877533 [00:01<00:00, 6759720.84it/s]DEBUG:barbequeue.messaging.backends.inmem:SEND MAILBOX: 532782a22c34461abe047c3bf599d909 MSG: _Message(type='JOB_UPDATED', message={'progress': 0.47286434390686455, 'job_id': 'eee50ac9043b4e90b6da40edfe460268', 'total_progress': 1.0, 'stage': ''})
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+ 51%|#################################3                               | 16735425/32653771 [00:02<00:02, 6653049.53it/s]DEBUG:barbequeue.messaging.backends.inmem:SEND MAILBOX: 532782a22c34461abe047c3bf599d909 MSG: _Message(type='JOB_UPDATED', message={'progress': 0.5125112502320176, 'job_id': 'eee50ac9043b4e90b6da40edfe460268', 'total_progress': 1.0, 'stage': ''})
+
+100%|#################################################################| 13877533/13877533 [00:02<00:00, 6807920.77it/s]DEBUG:barbequeue.messaging.backends.inmem:SEND MAILBOX: 532782a22c34461abe047c3bf599d909 MSG: _Message(type='JOB_UPDATED', message={'progress': 0.5125112502320176, 'job_id': 'eee50ac9043b4e90b6da40edfe460268', 'total_progress': 1.0, 'stage': ''})
+[37mINFO     in FileCopy.close  _____________[0m
+INFO:kolibri.content.utils.transfer:in FileCopy.close  _____________
+
+[37mINFO     in Transfer.__exit__[0m
+INFO:kolibri.content.utils.transfer:in Transfer.__exit__
+[37mINFO     In Transfer.__init__ with {'started': False, 'closed': False, 'finalized': False, 'dest': u'C:\\Users\\IEUser\\.kolibri\\content\\storage\\3\\a\\3a7ee5710c379e2a4bb888a1da57353f.mp4', 'completed': False, 'source': 'F:\\KOLIBRI_DATA\\content\\storage\\3\\a\\3a7ee5710c379e2a4bb888a1da57353f.mp4', 'timeout': 20, 'block_size': 2097152, 'dest_tmp': u'C:\\Users\\IEUser\\.kolibri\\content\\storage\\3\\a\\3a7ee5710c379e2a4bb888a1da57353f.mp4.transfer'}[0m
+INFO:kolibri.content.utils.transfer:In Transfer.__init__ with {'started': False, 'closed': False, 'finalized': False, 'dest': u'C:\\Users\\IEUser\\.kolibri\\content\\storage\\3\\a\\3a7ee5710c379e2a4bb888a1da57353f.mp4', 'completed': False, 'source': 'F:\\KOLIBRI_DATA\\content\\storage\\3\\a\\3a7ee5710c379e2a4bb888a1da57353f.mp4', 'timeout': 20, 'block_size': 2097152, 'dest_tmp': u'C:\\Users\\IEUser\\.kolibri\\content\\storage\\3\\a\\3a7ee5710c379e2a4bb888a1da57353f.mp4.transfer'}
+[37mINFO     in Transfer.__enter__[0m
+INFO:kolibri.content.utils.transfer:in Transfer.__enter__
+[37mINFO     in FileCopy.start  _____________[0m
+INFO:kolibri.content.utils.transfer:in FileCopy.start  _____________
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'RUNNING', 'exception': 'None', 'traceback': '', 'percentage': 0.4086404599334025, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'RUNNING', 'exception': 'None', 'traceback': '', 'percentage': 0.4086404599334025, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+
+  0%|                                                                                      | 0/8299085 [00:00<?, ?it/s] 58%|#####################################4                           | 18832577/32653771 [00:03<00:03, 3543973.20it/s]DEBUG:barbequeue.messaging.backends.inmem:SEND MAILBOX: 532782a22c34461abe047c3bf599d909 MSG: _Message(type='JOB_UPDATED', message={'progress': 0.5767351342054796, 'job_id': 'eee50ac9043b4e90b6da40edfe460268', 'total_progress': 1.0, 'stage': ''})
+[37mINFO     in _job_to_response ########[0m
+DEBUG:barbequeue.messaging.backends.inmem:SEND MAILBOX: 532782a22c34461abe047c3bf599d909 MSG: _Message(type='JOB_UPDATED', message={'progress': 0.5767351342054796, 'job_id': 'eee50ac9043b4e90b6da40edfe460268', 'total_progress': 1.0, 'stage': ''})
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'RUNNING', 'exception': 'None', 'traceback': '', 'percentage': 0.5125112502320176, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'RUNNING', 'exception': 'None', 'traceback': '', 'percentage': 0.5125112502320176, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:barbequeue.messaging.backends.inmem:SEND MAILBOX: 532782a22c34461abe047c3bf599d909 MSG: _Message(type='JOB_UPDATED', message={'progress': 0.6409590181789417, 'job_id': 'eee50ac9043b4e90b6da40edfe460268', 'total_progress': 1.0, 'stage': ''})
+DEBUG:barbequeue.messaging.backends.inmem:SEND MAILBOX: 532782a22c34461abe047c3bf599d909 MSG: _Message(type='JOB_UPDATED', message={'progress': 0.6409590181789417, 'job_id': 'eee50ac9043b4e90b6da40edfe460268', 'total_progress': 1.0, 'stage': ''})
+DEBUG:barbequeue.messaging.backends.inmem:SEND MAILBOX: 532782a22c34461abe047c3bf599d909 MSG: _Message(type='JOB_UPDATED', message={'progress': 0.7051829021524038, 'job_id': 'eee50ac9043b4e90b6da40edfe460268', 'total_progress': 1.0, 'stage': ''})
+DEBUG:barbequeue.messaging.backends.inmem:SEND MAILBOX: 532782a22c34461abe047c3bf599d909 MSG: _Message(type='JOB_UPDATED', message={'progress': 0.7051829021524038, 'job_id': 'eee50ac9043b4e90b6da40edfe460268', 'total_progress': 1.0, 'stage': ''})
+DEBUG:barbequeue.messaging.backends.inmem:SEND MAILBOX: 532782a22c34461abe047c3bf599d909 MSG: _Message(type='JOB_UPDATED', message={'progress': 0.7666652038442971, 'job_id': 'eee50ac9043b4e90b6da40edfe460268', 'total_progress': 1.0, 'stage': ''})
+DEBUG:barbequeue.messaging.backends.inmem:SEND MAILBOX: 532782a22c34461abe047c3bf599d909 MSG: _Message(type='JOB_UPDATED', message={'progress': 0.7666652038442971, 'job_id': 'eee50ac9043b4e90b6da40edfe460268', 'total_progress': 1.0, 'stage': ''})
+[37mINFO     in FileCopy.close  _____________[0m
+INFO:kolibri.content.utils.transfer:in FileCopy.close  _____________
+
+100%|#################################################################| 8299085/8299085 [00:00<00:00, 331962133.66it/s][37mINFO     in Transfer.__exit__[0m
+INFO:kolibri.content.utils.transfer:in Transfer.__exit__
+[37mINFO     In Transfer.__init__ with {'started': False, 'closed': False, 'finalized': False, 'dest': u'C:\\Users\\IEUser\\.kolibri\\content\\storage\\c\\4\\c48342389ac0302a7ef816b83a4c3998.mp3', 'completed': False, 'source': 'F:\\KOLIBRI_DATA\\content\\storage\\c\\4\\c48342389ac0302a7ef816b83a4c3998.mp3', 'timeout': 20, 'block_size': 2097152, 'dest_tmp': u'C:\\Users\\IEUser\\.kolibri\\content\\storage\\c\\4\\c48342389ac0302a7ef816b83a4c3998.mp3.transfer'}[0m
+INFO:kolibri.content.utils.transfer:In Transfer.__init__ with {'started': False, 'closed': False, 'finalized': False, 'dest': u'C:\\Users\\IEUser\\.kolibri\\content\\storage\\c\\4\\c48342389ac0302a7ef816b83a4c3998.mp3', 'completed': False, 'source': 'F:\\KOLIBRI_DATA\\content\\storage\\c\\4\\c48342389ac0302a7ef816b83a4c3998.mp3', 'timeout': 20, 'block_size': 2097152, 'dest_tmp': u'C:\\Users\\IEUser\\.kolibri\\content\\storage\\c\\4\\c48342389ac0302a7ef816b83a4c3998.mp3.transfer'}
+[37mINFO     in Transfer.__enter__[0m
+INFO:kolibri.content.utils.transfer:in Transfer.__enter__
+[37mINFO     in FileCopy.start  _____________[0m
+INFO:kolibri.content.utils.transfer:in FileCopy.start  _____________
+
+  0%|                                                                                       | 0/532061 [00:00<?, ?it/s] 78%|##################################################8              | 25566571/32653771 [00:03<00:01, 4921834.43it/s]DEBUG:barbequeue.messaging.backends.inmem:SEND MAILBOX: 532782a22c34461abe047c3bf599d909 MSG: _Message(type='JOB_UPDATED', message={'progress': 0.7829592177883529, 'job_id': 'eee50ac9043b4e90b6da40edfe460268', 'total_progress': 1.0, 'stage': ''})
+DEBUG:barbequeue.messaging.backends.inmem:SEND MAILBOX: 532782a22c34461abe047c3bf599d909 MSG: _Message(type='JOB_UPDATED', message={'progress': 0.7829592177883529, 'job_id': 'eee50ac9043b4e90b6da40edfe460268', 'total_progress': 1.0, 'stage': ''})
+[37mINFO     in FileCopy.close  _____________[0m
+INFO:kolibri.content.utils.transfer:in FileCopy.close  _____________
+
+100%|####################################################################| 532061/532061 [00:00<00:00, 59119041.55it/s][37mINFO     in Transfer.__exit__[0m
+INFO:kolibri.content.utils.transfer:in Transfer.__exit__
+DEBUG:barbequeue.messaging.backends.inmem:SEND MAILBOX: 532782a22c34461abe047c3bf599d909 MSG: _Message(type='JOB_UPDATED', message={'progress': 0.8698990998620036, 'job_id': 'eee50ac9043b4e90b6da40edfe460268', 'total_progress': 1.0, 'stage': ''})
+[37mINFO     In Transfer.__init__ with {'started': False, 'closed': False, 'finalized': False, 'dest': u'C:\\Users\\IEUser\\.kolibri\\content\\storage\\4\\5\\4570debb15acd6f4305ac45cabb2bad6.png', 'completed': False, 'source': 'F:\\KOLIBRI_DATA\\content\\storage\\4\\5\\4570debb15acd6f4305ac45cabb2bad6.png', 'timeout': 20, 'block_size': 2097152, 'dest_tmp': u'C:\\Users\\IEUser\\.kolibri\\content\\storage\\4\\5\\4570debb15acd6f4305ac45cabb2bad6.png.transfer'}[0m
+INFO:kolibri.content.utils.transfer:In Transfer.__init__ with {'started': False, 'closed': False, 'finalized': False, 'dest': u'C:\\Users\\IEUser\\.kolibri\\content\\storage\\4\\5\\4570debb15acd6f4305ac45cabb2bad6.png', 'completed': False, 'source': 'F:\\KOLIBRI_DATA\\content\\storage\\4\\5\\4570debb15acd6f4305ac45cabb2bad6.png', 'timeout': 20, 'block_size': 2097152, 'dest_tmp': u'C:\\Users\\IEUser\\.kolibri\\content\\storage\\4\\5\\4570debb15acd6f4305ac45cabb2bad6.png.transfer'}
+[37mINFO     in Transfer.__enter__[0m
+INFO:kolibri.content.utils.transfer:in Transfer.__enter__
+[37mINFO     in FileCopy.start  _____________[0m
+INFO:kolibri.content.utils.transfer:in FileCopy.start  _____________
+
+  0%|                                                                                         | 0/1394 [00:00<?, ?it/s]DEBUG:barbequeue.messaging.backends.inmem:SEND MAILBOX: 532782a22c34461abe047c3bf599d909 MSG: _Message(type='JOB_UPDATED', message={'progress': 0.8699417901840495, 'job_id': 'eee50ac9043b4e90b6da40edfe460268', 'total_progress': 1.0, 'stage': ''})
+DEBUG:barbequeue.messaging.backends.inmem:SEND MAILBOX: 532782a22c34461abe047c3bf599d909 MSG: _Message(type='JOB_UPDATED', message={'progress': 0.8699417901840495, 'job_id': 'eee50ac9043b4e90b6da40edfe460268', 'total_progress': 1.0, 'stage': ''})
+[37mINFO     in FileCopy.close  _____________[0m
+INFO:kolibri.content.utils.transfer:in FileCopy.close  _____________
+
+100%|##########################################################################| 1394/1394 [00:00<00:00, 278806.91it/s][37mINFO     in Transfer.__exit__[0m
+INFO:kolibri.content.utils.transfer:in Transfer.__exit__
+[37mINFO     In Transfer.__init__ with {'started': False, 'closed': False, 'finalized': False, 'dest': u'C:\\Users\\IEUser\\.kolibri\\content\\storage\\b\\0\\b0dd3f53b17ac0e39a5e7c960e3665a4.jpg', 'completed': False, 'source': 'F:\\KOLIBRI_DATA\\content\\storage\\b\\0\\b0dd3f53b17ac0e39a5e7c960e3665a4.jpg', 'timeout': 20, 'block_size': 2097152, 'dest_tmp': u'C:\\Users\\IEUser\\.kolibri\\content\\storage\\b\\0\\b0dd3f53b17ac0e39a5e7c960e3665a4.jpg.transfer'}[0m
+INFO:kolibri.content.utils.transfer:In Transfer.__init__ with {'started': False, 'closed': False, 'finalized': False, 'dest': u'C:\\Users\\IEUser\\.kolibri\\content\\storage\\b\\0\\b0dd3f53b17ac0e39a5e7c960e3665a4.jpg', 'completed': False, 'source': 'F:\\KOLIBRI_DATA\\content\\storage\\b\\0\\b0dd3f53b17ac0e39a5e7c960e3665a4.jpg', 'timeout': 20, 'block_size': 2097152, 'dest_tmp': u'C:\\Users\\IEUser\\.kolibri\\content\\storage\\b\\0\\b0dd3f53b17ac0e39a5e7c960e3665a4.jpg.transfer'}
+[37mINFO     in Transfer.__enter__[0m
+INFO:kolibri.content.utils.transfer:in Transfer.__enter__
+[37mINFO     in FileCopy.start  _____________[0m
+INFO:kolibri.content.utils.transfer:in FileCopy.start  _____________
+
+  0%|                                                                                        | 0/60616 [00:00<?, ?it/s]DEBUG:barbequeue.messaging.backends.inmem:SEND MAILBOX: 532782a22c34461abe047c3bf599d909 MSG: _Message(type='JOB_UPDATED', message={'progress': 0.8717981148333527, 'job_id': 'eee50ac9043b4e90b6da40edfe460268', 'total_progress': 1.0, 'stage': ''})
+DEBUG:barbequeue.messaging.backends.inmem:SEND MAILBOX: 532782a22c34461abe047c3bf599d909 MSG: _Message(type='JOB_UPDATED', message={'progress': 0.8717981148333527, 'job_id': 'eee50ac9043b4e90b6da40edfe460268', 'total_progress': 1.0, 'stage': ''})
+[37mINFO     in FileCopy.close  _____________[0m
+INFO:kolibri.content.utils.transfer:in FileCopy.close  _____________
+
+100%|#######################################################################| 60616/60616 [00:00<00:00, 6735242.43it/s][37mINFO     in Transfer.__exit__[0m
+INFO:kolibri.content.utils.transfer:in Transfer.__exit__
+[37mINFO     In Transfer.__init__ with {'started': False, 'closed': False, 'finalized': False, 'dest': u'C:\\Users\\IEUser\\.kolibri\\content\\storage\\b\\e\\be6f36d201f1d1f7dc227a55ed140b09.perseus', 'completed': False, 'source': 'F:\\KOLIBRI_DATA\\content\\storage\\b\\e\\be6f36d201f1d1f7dc227a55ed140b09.perseus', 'timeout': 20, 'block_size': 2097152, 'dest_tmp': u'C:\\Users\\IEUser\\.kolibri\\content\\storage\\b\\e\\be6f36d201f1d1f7dc227a55ed140b09.perseus.transfer'}[0m
+INFO:kolibri.content.utils.transfer:In Transfer.__init__ with {'started': False, 'closed': False, 'finalized': False, 'dest': u'C:\\Users\\IEUser\\.kolibri\\content\\storage\\b\\e\\be6f36d201f1d1f7dc227a55ed140b09.perseus', 'completed': False, 'source': 'F:\\KOLIBRI_DATA\\content\\storage\\b\\e\\be6f36d201f1d1f7dc227a55ed140b09.perseus', 'timeout': 20, 'block_size': 2097152, 'dest_tmp': u'C:\\Users\\IEUser\\.kolibri\\content\\storage\\b\\e\\be6f36d201f1d1f7dc227a55ed140b09.perseus.transfer'}
+[37mINFO     in Transfer.__enter__[0m
+INFO:kolibri.content.utils.transfer:in Transfer.__enter__
+[37mINFO     in FileCopy.start  _____________[0m
+INFO:kolibri.content.utils.transfer:in FileCopy.start  _____________
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+
+  0%|                                                                                      | 0/2817796 [00:00<?, ?it/s] 94%|############################################################8    | 30564648/32653771 [00:04<00:00, 5828365.55it/s]DEBUG:barbequeue.messaging.backends.inmem:SEND MAILBOX: 532782a22c34461abe047c3bf599d909 MSG: _Message(type='JOB_UPDATED', message={'progress': 0.9360219988068147, 'job_id': 'eee50ac9043b4e90b6da40edfe460268', 'total_progress': 1.0, 'stage': ''})
+DEBUG:barbequeue.messaging.backends.inmem:SEND MAILBOX: 532782a22c34461abe047c3bf599d909 MSG: _Message(type='JOB_UPDATED', message={'progress': 0.9360219988068147, 'job_id': 'eee50ac9043b4e90b6da40edfe460268', 'total_progress': 1.0, 'stage': ''})
+DEBUG:barbequeue.messaging.backends.inmem:SEND MAILBOX: 532782a22c34461abe047c3bf599d909 MSG: _Message(type='JOB_UPDATED', message={'progress': 0.9580912415904429, 'job_id': 'eee50ac9043b4e90b6da40edfe460268', 'total_progress': 1.0, 'stage': ''})
+DEBUG:barbequeue.messaging.backends.inmem:SEND MAILBOX: 532782a22c34461abe047c3bf599d909 MSG: _Message(type='JOB_UPDATED', message={'progress': 0.9580912415904429, 'job_id': 'eee50ac9043b4e90b6da40edfe460268', 'total_progress': 1.0, 'stage': ''})
+[37mINFO     in FileCopy.close  _____________[0m
+INFO:kolibri.content.utils.transfer:in FileCopy.close  _____________
+
+100%|#################################################################| 2817796/2817796 [00:00<00:00, 216753347.65it/s][37mINFO     in Transfer.__exit__[0m
+INFO:kolibri.content.utils.transfer:in Transfer.__exit__
+[37mINFO     In Transfer.__init__ with {'started': False, 'closed': False, 'finalized': False, 'dest': u'C:\\Users\\IEUser\\.kolibri\\content\\storage\\9\\6\\96d4f3bab26d9e9dd808f916d8991f82.jpg', 'completed': False, 'source': 'F:\\KOLIBRI_DATA\\content\\storage\\9\\6\\96d4f3bab26d9e9dd808f916d8991f82.jpg', 'timeout': 20, 'block_size': 2097152, 'dest_tmp': u'C:\\Users\\IEUser\\.kolibri\\content\\storage\\9\\6\\96d4f3bab26d9e9dd808f916d8991f82.jpg.transfer'}[0m
+INFO:kolibri.content.utils.transfer:In Transfer.__init__ with {'started': False, 'closed': False, 'finalized': False, 'dest': u'C:\\Users\\IEUser\\.kolibri\\content\\storage\\9\\6\\96d4f3bab26d9e9dd808f916d8991f82.jpg', 'completed': False, 'source': 'F:\\KOLIBRI_DATA\\content\\storage\\9\\6\\96d4f3bab26d9e9dd808f916d8991f82.jpg', 'timeout': 20, 'block_size': 2097152, 'dest_tmp': u'C:\\Users\\IEUser\\.kolibri\\content\\storage\\9\\6\\96d4f3bab26d9e9dd808f916d8991f82.jpg.transfer'}
+[37mINFO     in Transfer.__enter__[0m
+INFO:kolibri.content.utils.transfer:in Transfer.__enter__
+[37mINFO     in FileCopy.start  _____________[0m
+INFO:kolibri.content.utils.transfer:in FileCopy.start  _____________
+DEBUG:root:No job to schedule right now.
+
+  0%|                                                                                       | 0/136787 [00:00<?, ?it/s]DEBUG:barbequeue.messaging.backends.inmem:SEND MAILBOX: 532782a22c34461abe047c3bf599d909 MSG: _Message(type='JOB_UPDATED', message={'progress': 0.9622802524094384, 'job_id': 'eee50ac9043b4e90b6da40edfe460268', 'total_progress': 1.0, 'stage': ''})
+DEBUG:barbequeue.messaging.backends.inmem:SEND MAILBOX: 532782a22c34461abe047c3bf599d909 MSG: _Message(type='JOB_UPDATED', message={'progress': 0.9622802524094384, 'job_id': 'eee50ac9043b4e90b6da40edfe460268', 'total_progress': 1.0, 'stage': ''})
+[37mINFO     in FileCopy.close  _____________[0m
+INFO:kolibri.content.utils.transfer:in FileCopy.close  _____________
+
+100%|####################################################################| 136787/136787 [00:00<00:00, 15198449.26it/s][37mINFO     in Transfer.__exit__[0m
+INFO:kolibri.content.utils.transfer:in Transfer.__exit__
+[37mINFO     In Transfer.__init__ with {'started': False, 'closed': False, 'finalized': False, 'dest': u'C:\\Users\\IEUser\\.kolibri\\content\\storage\\d\\7\\d783a2cae196691493065e73feeaec82.perseus', 'completed': False, 'source': 'F:\\KOLIBRI_DATA\\content\\storage\\d\\7\\d783a2cae196691493065e73feeaec82.perseus', 'timeout': 20, 'block_size': 2097152, 'dest_tmp': u'C:\\Users\\IEUser\\.kolibri\\content\\storage\\d\\7\\d783a2cae196691493065e73feeaec82.perseus.transfer'}[0m
+INFO:kolibri.content.utils.transfer:In Transfer.__init__ with {'started': False, 'closed': False, 'finalized': False, 'dest': u'C:\\Users\\IEUser\\.kolibri\\content\\storage\\d\\7\\d783a2cae196691493065e73feeaec82.perseus', 'completed': False, 'source': 'F:\\KOLIBRI_DATA\\content\\storage\\d\\7\\d783a2cae196691493065e73feeaec82.perseus', 'timeout': 20, 'block_size': 2097152, 'dest_tmp': u'C:\\Users\\IEUser\\.kolibri\\content\\storage\\d\\7\\d783a2cae196691493065e73feeaec82.perseus.transfer'}
+[37mINFO     in Transfer.__enter__[0m
+INFO:kolibri.content.utils.transfer:in Transfer.__enter__
+[37mINFO     in FileCopy.start  _____________[0m
+INFO:kolibri.content.utils.transfer:in FileCopy.start  _____________
+
+  0%|                                                                                         | 0/3549 [00:00<?, ?it/s]DEBUG:barbequeue.messaging.backends.inmem:SEND MAILBOX: 532782a22c34461abe047c3bf599d909 MSG: _Message(type='JOB_UPDATED', message={'progress': 0.9623889381719496, 'job_id': 'eee50ac9043b4e90b6da40edfe460268', 'total_progress': 1.0, 'stage': ''})
+DEBUG:barbequeue.messaging.backends.inmem:SEND MAILBOX: 532782a22c34461abe047c3bf599d909 MSG: _Message(type='JOB_UPDATED', message={'progress': 0.9623889381719496, 'job_id': 'eee50ac9043b4e90b6da40edfe460268', 'total_progress': 1.0, 'stage': ''})
+[37mINFO     in FileCopy.close  _____________[0m
+INFO:kolibri.content.utils.transfer:in FileCopy.close  _____________
+
+100%|##########################################################################| 3549/3549 [00:00<00:00, 709817.60it/s][37mINFO     in Transfer.__exit__[0m
+INFO:kolibri.content.utils.transfer:in Transfer.__exit__
+[37mINFO     In Transfer.__init__ with {'started': False, 'closed': False, 'finalized': False, 'dest': u'C:\\Users\\IEUser\\.kolibri\\content\\storage\\d\\c\\dc33e5130077aa99d5b67723063f0ab9.zip', 'completed': False, 'source': 'F:\\KOLIBRI_DATA\\content\\storage\\d\\c\\dc33e5130077aa99d5b67723063f0ab9.zip', 'timeout': 20, 'block_size': 2097152, 'dest_tmp': u'C:\\Users\\IEUser\\.kolibri\\content\\storage\\d\\c\\dc33e5130077aa99d5b67723063f0ab9.zip.transfer'}[0m
+INFO:kolibri.content.utils.transfer:In Transfer.__init__ with {'started': False, 'closed': False, 'finalized': False, 'dest': u'C:\\Users\\IEUser\\.kolibri\\content\\storage\\d\\c\\dc33e5130077aa99d5b67723063f0ab9.zip', 'completed': False, 'source': 'F:\\KOLIBRI_DATA\\content\\storage\\d\\c\\dc33e5130077aa99d5b67723063f0ab9.zip', 'timeout': 20, 'block_size': 2097152, 'dest_tmp': u'C:\\Users\\IEUser\\.kolibri\\content\\storage\\d\\c\\dc33e5130077aa99d5b67723063f0ab9.zip.transfer'}
+[37mINFO     in Transfer.__enter__[0m
+INFO:kolibri.content.utils.transfer:in Transfer.__enter__
+[37mINFO     in FileCopy.start  _____________[0m
+INFO:kolibri.content.utils.transfer:in FileCopy.start  _____________
+
+  0%|                                                                                          | 0/271 [00:00<?, ?it/s]DEBUG:barbequeue.messaging.backends.inmem:SEND MAILBOX: 532782a22c34461abe047c3bf599d909 MSG: _Message(type='JOB_UPDATED', message={'progress': 0.962397237366551, 'job_id': 'eee50ac9043b4e90b6da40edfe460268', 'total_progress': 1.0, 'stage': ''})
+DEBUG:barbequeue.messaging.backends.inmem:SEND MAILBOX: 532782a22c34461abe047c3bf599d909 MSG: _Message(type='JOB_UPDATED', message={'progress': 0.962397237366551, 'job_id': 'eee50ac9043b4e90b6da40edfe460268', 'total_progress': 1.0, 'stage': ''})
+[37mINFO     in FileCopy.close  _____________[0m
+INFO:kolibri.content.utils.transfer:in FileCopy.close  _____________
+
+100%|#############################################################################| 271/271 [00:00<00:00, 54201.34it/s][37mINFO     in Transfer.__exit__[0m
+INFO:kolibri.content.utils.transfer:in Transfer.__exit__
+[37mINFO     In Transfer.__init__ with {'started': False, 'closed': False, 'finalized': False, 'dest': u'C:\\Users\\IEUser\\.kolibri\\content\\storage\\1\\f\\1fd2d82e60815bd7d6cadc9779b261f0.jpg', 'completed': False, 'source': 'F:\\KOLIBRI_DATA\\content\\storage\\1\\f\\1fd2d82e60815bd7d6cadc9779b261f0.jpg', 'timeout': 20, 'block_size': 2097152, 'dest_tmp': u'C:\\Users\\IEUser\\.kolibri\\content\\storage\\1\\f\\1fd2d82e60815bd7d6cadc9779b261f0.jpg.transfer'}[0m
+INFO:kolibri.content.utils.transfer:In Transfer.__init__ with {'started': False, 'closed': False, 'finalized': False, 'dest': u'C:\\Users\\IEUser\\.kolibri\\content\\storage\\1\\f\\1fd2d82e60815bd7d6cadc9779b261f0.jpg', 'completed': False, 'source': 'F:\\KOLIBRI_DATA\\content\\storage\\1\\f\\1fd2d82e60815bd7d6cadc9779b261f0.jpg', 'timeout': 20, 'block_size': 2097152, 'dest_tmp': u'C:\\Users\\IEUser\\.kolibri\\content\\storage\\1\\f\\1fd2d82e60815bd7d6cadc9779b261f0.jpg.transfer'}
+[37mINFO     in Transfer.__enter__[0m
+INFO:kolibri.content.utils.transfer:in Transfer.__enter__
+[37mINFO     in FileCopy.start  _____________[0m
+INFO:kolibri.content.utils.transfer:in FileCopy.start  _____________
+
+  0%|                                                                                       | 0/446063 [00:00<?, ?it/s]DEBUG:barbequeue.messaging.backends.inmem:SEND MAILBOX: 532782a22c34461abe047c3bf599d909 MSG: _Message(type='JOB_UPDATED', message={'progress': 0.9760576198075255, 'job_id': 'eee50ac9043b4e90b6da40edfe460268', 'total_progress': 1.0, 'stage': ''})
+DEBUG:barbequeue.messaging.backends.inmem:SEND MAILBOX: 532782a22c34461abe047c3bf599d909 MSG: _Message(type='JOB_UPDATED', message={'progress': 0.9760576198075255, 'job_id': 'eee50ac9043b4e90b6da40edfe460268', 'total_progress': 1.0, 'stage': ''})
+[37mINFO     in FileCopy.close  _____________[0m
+INFO:kolibri.content.utils.transfer:in FileCopy.close  _____________
+
+100%|####################################################################| 446063/446063 [00:00<00:00, 74343313.41it/s][37mINFO     in Transfer.__exit__[0m
+INFO:kolibri.content.utils.transfer:in Transfer.__exit__
+[37mINFO     In Transfer.__init__ with {'started': False, 'closed': False, 'finalized': False, 'dest': u'C:\\Users\\IEUser\\.kolibri\\content\\storage\\2\\9\\29987069c96377233c0b0b880b8e4a41.perseus', 'completed': False, 'source': 'F:\\KOLIBRI_DATA\\content\\storage\\2\\9\\29987069c96377233c0b0b880b8e4a41.perseus', 'timeout': 20, 'block_size': 2097152, 'dest_tmp': u'C:\\Users\\IEUser\\.kolibri\\content\\storage\\2\\9\\29987069c96377233c0b0b880b8e4a41.perseus.transfer'}[0m
+INFO:kolibri.content.utils.transfer:In Transfer.__init__ with {'started': False, 'closed': False, 'finalized': False, 'dest': u'C:\\Users\\IEUser\\.kolibri\\content\\storage\\2\\9\\29987069c96377233c0b0b880b8e4a41.perseus', 'completed': False, 'source': 'F:\\KOLIBRI_DATA\\content\\storage\\2\\9\\29987069c96377233c0b0b880b8e4a41.perseus', 'timeout': 20, 'block_size': 2097152, 'dest_tmp': u'C:\\Users\\IEUser\\.kolibri\\content\\storage\\2\\9\\29987069c96377233c0b0b880b8e4a41.perseus.transfer'}
+[37mINFO     in Transfer.__enter__[0m
+INFO:kolibri.content.utils.transfer:in Transfer.__enter__
+[37mINFO     in FileCopy.start  _____________[0m
+INFO:kolibri.content.utils.transfer:in FileCopy.start  _____________
+
+  0%|                                                                                        | 0/15324 [00:00<?, ?it/s]DEBUG:barbequeue.messaging.backends.inmem:SEND MAILBOX: 532782a22c34461abe047c3bf599d909 MSG: _Message(type='JOB_UPDATED', message={'progress': 0.9765269071066861, 'job_id': 'eee50ac9043b4e90b6da40edfe460268', 'total_progress': 1.0, 'stage': ''})
+DEBUG:barbequeue.messaging.backends.inmem:SEND MAILBOX: 532782a22c34461abe047c3bf599d909 MSG: _Message(type='JOB_UPDATED', message={'progress': 0.9765269071066861, 'job_id': 'eee50ac9043b4e90b6da40edfe460268', 'total_progress': 1.0, 'stage': ''})
+[37mINFO     in FileCopy.close  _____________[0m
+INFO:kolibri.content.utils.transfer:in FileCopy.close  _____________
+
+100%|#######################################################################| 15324/15324 [00:00<00:00, 1532401.46it/s][37mINFO     in Transfer.__exit__[0m
+INFO:kolibri.content.utils.transfer:in Transfer.__exit__
+[37mINFO     In Transfer.__init__ with {'started': False, 'closed': False, 'finalized': False, 'dest': u'C:\\Users\\IEUser\\.kolibri\\content\\storage\\6\\1\\61025280a2a23201186ca365e9734476.pdf', 'completed': False, 'source': 'F:\\KOLIBRI_DATA\\content\\storage\\6\\1\\61025280a2a23201186ca365e9734476.pdf', 'timeout': 20, 'block_size': 2097152, 'dest_tmp': u'C:\\Users\\IEUser\\.kolibri\\content\\storage\\6\\1\\61025280a2a23201186ca365e9734476.pdf.transfer'}[0m
+INFO:kolibri.content.utils.transfer:In Transfer.__init__ with {'started': False, 'closed': False, 'finalized': False, 'dest': u'C:\\Users\\IEUser\\.kolibri\\content\\storage\\6\\1\\61025280a2a23201186ca365e9734476.pdf', 'completed': False, 'source': 'F:\\KOLIBRI_DATA\\content\\storage\\6\\1\\61025280a2a23201186ca365e9734476.pdf', 'timeout': 20, 'block_size': 2097152, 'dest_tmp': u'C:\\Users\\IEUser\\.kolibri\\content\\storage\\6\\1\\61025280a2a23201186ca365e9734476.pdf.transfer'}
+[37mINFO     in Transfer.__enter__[0m
+INFO:kolibri.content.utils.transfer:in Transfer.__enter__
+[37mINFO     in FileCopy.start  _____________[0m
+INFO:kolibri.content.utils.transfer:in FileCopy.start  _____________
+
+  0%|                                                                                       | 0/481382 [00:00<?, ?it/s] 99%|################################################################4| 32368668/32653771 [00:04<00:00, 5536063.23it/s]DEBUG:barbequeue.messaging.backends.inmem:SEND MAILBOX: 532782a22c34461abe047c3bf599d909 MSG: _Message(type='JOB_UPDATED', message={'progress': 0.991268910411603, 'job_id': 'eee50ac9043b4e90b6da40edfe460268', 'total_progress': 1.0, 'stage': ''})
+DEBUG:barbequeue.messaging.backends.inmem:SEND MAILBOX: 532782a22c34461abe047c3bf599d909 MSG: _Message(type='JOB_UPDATED', message={'progress': 0.991268910411603, 'job_id': 'eee50ac9043b4e90b6da40edfe460268', 'total_progress': 1.0, 'stage': ''})
+[37mINFO     in FileCopy.close  _____________[0m
+INFO:kolibri.content.utils.transfer:in FileCopy.close  _____________
+
+100%|####################################################################| 481382/481382 [00:00<00:00, 48138245.91it/s][37mINFO     in Transfer.__exit__[0m
+INFO:kolibri.content.utils.transfer:in Transfer.__exit__
+[37mINFO     In Transfer.__init__ with {'started': False, 'closed': False, 'finalized': False, 'dest': u'C:\\Users\\IEUser\\.kolibri\\content\\storage\\f\\2\\f2912edc0aa959aef81093442ec715f0.jpg', 'completed': False, 'source': 'F:\\KOLIBRI_DATA\\content\\storage\\f\\2\\f2912edc0aa959aef81093442ec715f0.jpg', 'timeout': 20, 'block_size': 2097152, 'dest_tmp': u'C:\\Users\\IEUser\\.kolibri\\content\\storage\\f\\2\\f2912edc0aa959aef81093442ec715f0.jpg.transfer'}[0m
+INFO:kolibri.content.utils.transfer:In Transfer.__init__ with {'started': False, 'closed': False, 'finalized': False, 'dest': u'C:\\Users\\IEUser\\.kolibri\\content\\storage\\f\\2\\f2912edc0aa959aef81093442ec715f0.jpg', 'completed': False, 'source': 'F:\\KOLIBRI_DATA\\content\\storage\\f\\2\\f2912edc0aa959aef81093442ec715f0.jpg', 'timeout': 20, 'block_size': 2097152, 'dest_tmp': u'C:\\Users\\IEUser\\.kolibri\\content\\storage\\f\\2\\f2912edc0aa959aef81093442ec715f0.jpg.transfer'}
+[37mINFO     in Transfer.__enter__[0m
+INFO:kolibri.content.utils.transfer:in Transfer.__enter__
+[37mINFO     in FileCopy.start  _____________[0m
+INFO:kolibri.content.utils.transfer:in FileCopy.start  _____________
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'RUNNING', 'exception': 'None', 'traceback': '', 'percentage': 0.962397237366551, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'RUNNING', 'exception': 'None', 'traceback': '', 'percentage': 0.962397237366551, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+
+  0%|                                                                                        | 0/98135 [00:00<?, ?it/s]DEBUG:barbequeue.messaging.backends.inmem:SEND MAILBOX: 532782a22c34461abe047c3bf599d909 MSG: _Message(type='JOB_UPDATED', message={'progress': 0.9942742294603585, 'job_id': 'eee50ac9043b4e90b6da40edfe460268', 'total_progress': 1.0, 'stage': ''})
+DEBUG:barbequeue.messaging.backends.inmem:SEND MAILBOX: 532782a22c34461abe047c3bf599d909 MSG: _Message(type='JOB_UPDATED', message={'progress': 0.9942742294603585, 'job_id': 'eee50ac9043b4e90b6da40edfe460268', 'total_progress': 1.0, 'stage': ''})
+[37mINFO     in FileCopy.close  _____________[0m
+INFO:kolibri.content.utils.transfer:in FileCopy.close  _____________
+
+100%|######################################################################| 98135/98135 [00:00<00:00, 12267032.93it/s][37mINFO     in Transfer.__exit__[0m
+INFO:kolibri.content.utils.transfer:in Transfer.__exit__
+[37mINFO     In Transfer.__init__ with {'started': False, 'closed': False, 'finalized': False, 'dest': u'C:\\Users\\IEUser\\.kolibri\\content\\storage\\4\\c\\4c11bff357b35bf30fa975fb246fdc45.pdf', 'completed': False, 'source': 'F:\\KOLIBRI_DATA\\content\\storage\\4\\c\\4c11bff357b35bf30fa975fb246fdc45.pdf', 'timeout': 20, 'block_size': 2097152, 'dest_tmp': u'C:\\Users\\IEUser\\.kolibri\\content\\storage\\4\\c\\4c11bff357b35bf30fa975fb246fdc45.pdf.transfer'}[0m
+INFO:kolibri.content.utils.transfer:In Transfer.__init__ with {'started': False, 'closed': False, 'finalized': False, 'dest': u'C:\\Users\\IEUser\\.kolibri\\content\\storage\\4\\c\\4c11bff357b35bf30fa975fb246fdc45.pdf', 'completed': False, 'source': 'F:\\KOLIBRI_DATA\\content\\storage\\4\\c\\4c11bff357b35bf30fa975fb246fdc45.pdf', 'timeout': 20, 'block_size': 2097152, 'dest_tmp': u'C:\\Users\\IEUser\\.kolibri\\content\\storage\\4\\c\\4c11bff357b35bf30fa975fb246fdc45.pdf.transfer'}
+DEBUG:root:Not creating directory 'C:\Users\IEUser\.kolibri\content\storage\4\c' as it already exists.
+[37mINFO     in Transfer.__enter__[0m
+INFO:kolibri.content.utils.transfer:in Transfer.__enter__
+[37mINFO     in FileCopy.start  _____________[0m
+INFO:kolibri.content.utils.transfer:in FileCopy.start  _____________
+
+  0%|                                                                                       | 0/183185 [00:00<?, ?it/s]DEBUG:barbequeue.messaging.backends.inmem:SEND MAILBOX: 532782a22c34461abe047c3bf599d909 MSG: _Message(type='JOB_UPDATED', message={'progress': 0.9998841481432573, 'job_id': 'eee50ac9043b4e90b6da40edfe460268', 'total_progress': 1.0, 'stage': ''})
+DEBUG:barbequeue.messaging.backends.inmem:SEND MAILBOX: 532782a22c34461abe047c3bf599d909 MSG: _Message(type='JOB_UPDATED', message={'progress': 0.9998841481432573, 'job_id': 'eee50ac9043b4e90b6da40edfe460268', 'total_progress': 1.0, 'stage': ''})
+[37mINFO     in FileCopy.close  _____________[0m
+INFO:kolibri.content.utils.transfer:in FileCopy.close  _____________
+
+100%|####################################################################| 183185/183185 [00:00<00:00, 16653305.99it/s][37mINFO     in Transfer.__exit__[0m
+INFO:kolibri.content.utils.transfer:in Transfer.__exit__
+[37mINFO     In Transfer.__init__ with {'started': False, 'closed': False, 'finalized': False, 'dest': u'C:\\Users\\IEUser\\.kolibri\\content\\storage\\e\\4\\e49dad5070c0d24cba1f48efe75e21a2.jpg', 'completed': False, 'source': 'F:\\KOLIBRI_DATA\\content\\storage\\e\\4\\e49dad5070c0d24cba1f48efe75e21a2.jpg', 'timeout': 20, 'block_size': 2097152, 'dest_tmp': u'C:\\Users\\IEUser\\.kolibri\\content\\storage\\e\\4\\e49dad5070c0d24cba1f48efe75e21a2.jpg.transfer'}[0m
+INFO:kolibri.content.utils.transfer:In Transfer.__init__ with {'started': False, 'closed': False, 'finalized': False, 'dest': u'C:\\Users\\IEUser\\.kolibri\\content\\storage\\e\\4\\e49dad5070c0d24cba1f48efe75e21a2.jpg', 'completed': False, 'source': 'F:\\KOLIBRI_DATA\\content\\storage\\e\\4\\e49dad5070c0d24cba1f48efe75e21a2.jpg', 'timeout': 20, 'block_size': 2097152, 'dest_tmp': u'C:\\Users\\IEUser\\.kolibri\\content\\storage\\e\\4\\e49dad5070c0d24cba1f48efe75e21a2.jpg.transfer'}
+[37mINFO     in Transfer.__enter__[0m
+INFO:kolibri.content.utils.transfer:in Transfer.__enter__
+[37mINFO     in FileCopy.start  _____________[0m
+INFO:kolibri.content.utils.transfer:in FileCopy.start  _____________
+
+  0%|                                                                                         | 0/3783 [00:00<?, ?it/s]DEBUG:barbequeue.messaging.backends.inmem:SEND MAILBOX: 532782a22c34461abe047c3bf599d909 MSG: _Message(type='JOB_UPDATED', message={'progress': 1.0, 'job_id': 'eee50ac9043b4e90b6da40edfe460268', 'total_progress': 1.0, 'stage': ''})
+DEBUG:barbequeue.messaging.backends.inmem:SEND MAILBOX: 532782a22c34461abe047c3bf599d909 MSG: _Message(type='JOB_UPDATED', message={'progress': 1.0, 'job_id': 'eee50ac9043b4e90b6da40edfe460268', 'total_progress': 1.0, 'stage': ''})
+[37mINFO     in FileCopy.close  _____________[0m
+INFO:kolibri.content.utils.transfer:in FileCopy.close  _____________
+
+100%|##########################################################################| 3783/3783 [00:00<00:00, 756582.68it/s][37mINFO     in Transfer.__exit__[0m
+INFO:kolibri.content.utils.transfer:in Transfer.__exit__
+100%|#################################################################| 32653771/32653771 [00:04<00:00, 6612752.38it/s]
+DEBUG:barbequeue.messaging.backends.inmem:SEND MAILBOX: 532782a22c34461abe047c3bf599d909 MSG: _Message(type='JOB_COMPLETED', message={'job_id': 'eee50ac9043b4e90b6da40edfe460268', 'result': None})
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:root:No job to schedule right now.
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+DEBUG:root:No job to schedule right now.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:root:No job to schedule right now.
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:root:No job to schedule right now.
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:root:No job to schedule right now.
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:root:No job to schedule right now.
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:root:No job to schedule right now.
+DEBUG:barbequeue.worker.backends.base:Worker message queue currently empty.
+[37mINFO     in _job_to_response ########[0m
+INFO:kolibri.tasks.api:in _job_to_response ########
+[37mINFO     job is truthy[0m
+INFO:kolibri.tasks.api:job is truthy
+[37mINFO     {'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}[0m
+INFO:kolibri.tasks.api:{'status': 'COMPLETED', 'exception': 'None', 'traceback': '', 'percentage': 1.0, 'type': 'remoteimport', 'id': 'eee50ac9043b4e90b6da40edfe460268'}
+DEBUG:root:No job to schedule right now.

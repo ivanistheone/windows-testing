@@ -36,7 +36,7 @@ echo Media drive contents:
 rem Mode con cols=100 lines=20 & Color 9E
 wmic LOGICALDISK where driveType=2 get deviceID > wmic.txt
 for /f "skip=1" %%b IN ('type wmic.txt') DO (echo %%b & dir /a-d /r /b /s %%b)
-rem Del wmic.txt
+del wmic.txt
 
 
 

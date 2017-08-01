@@ -1,0 +1,87 @@
+Initial state
+
+    c:\Users\IEUser>Documents\kolibri_debug.bat
+    This script will print info about current Kolibri installation
+    "ifconfig:::"
+    'ip' is not recognized as an internal or external command,
+    operable program or batch file.
+    "Kolibri dir contents"
+    "C:\Users\IEUser\.kolibri\.data_version"
+    "C:\Users\IEUser\.kolibri\db.sqlite3"
+    "C:\Users\IEUser\.kolibri\db.sqlite3-shm"
+    "C:\Users\IEUser\.kolibri\db.sqlite3-wal"
+    "C:\Users\IEUser\.kolibri\debug.log"
+    "C:\Users\IEUser\.kolibri\kolibri.log"
+    "C:\Users\IEUser\.kolibri\kolibri_settings.json"
+    "C:\Users\IEUser\.kolibri\server.log"
+    "C:\Users\IEUser\.kolibri\server.pid"
+
+
+After importing `8ca4d9403d4d5d938b4aa498a24c8177` (test channel)
+
+    This script will print info about current Kolibri installation
+    "Your HOMEDRIVE\HOMEPATH is C:\Users\IEUser"
+    "The Kolibri configs directory is C:\Users\IEUser\.kolibri"
+    "The Kolibri content directory is C:\Users\IEUser\.kolibri\content"
+    "Your HOME/.kolibri/ dir contents"
+    "ContentNode Files in content\storage"
+    C:\Users\IEUser\.kolibri\content\storage\1\f\1fd2d82e60815bd7d6cadc9779b261f0.jpg
+    C:\Users\IEUser\.kolibri\content\storage\2\9\29987069c96377233c0b0b880b8e4a41.perseus
+    C:\Users\IEUser\.kolibri\content\storage\3\a\3a7ee5710c379e2a4bb888a1da57353f.mp4
+    C:\Users\IEUser\.kolibri\content\storage\4\5\4570debb15acd6f4305ac45cabb2bad6.png
+    C:\Users\IEUser\.kolibri\content\storage\4\c\4c11bff357b35bf30fa975fb246fdc45.pdf
+    C:\Users\IEUser\.kolibri\content\storage\4\c\4c4ddad6951ed68ed8875f6f5991c2ee.mp4
+    C:\Users\IEUser\.kolibri\content\storage\6\1\61025280a2a23201186ca365e9734476.pdf
+    C:\Users\IEUser\.kolibri\content\storage\9\6\96d4f3bab26d9e9dd808f916d8991f82.jpg
+    C:\Users\IEUser\.kolibri\content\storage\a\2\a2a7aed34e8a17e11f52790ebae1289d.png
+    C:\Users\IEUser\.kolibri\content\storage\b\0\b0dd3f53b17ac0e39a5e7c960e3665a4.jpg
+    C:\Users\IEUser\.kolibri\content\storage\b\e\be6f36d201f1d1f7dc227a55ed140b09.perseus
+    C:\Users\IEUser\.kolibri\content\storage\c\4\c48342389ac0302a7ef816b83a4c3998.mp3
+    C:\Users\IEUser\.kolibri\content\storage\d\7\d783a2cae196691493065e73feeaec82.perseus
+    C:\Users\IEUser\.kolibri\content\storage\d\c\dc33e5130077aa99d5b67723063f0ab9.zip
+    C:\Users\IEUser\.kolibri\content\storage\e\1\e1e9fefb1233b79a7a9bbb57566cda8e.mp4
+    C:\Users\IEUser\.kolibri\content\storage\e\4\e49dad5070c0d24cba1f48efe75e21a2.jpg
+    C:\Users\IEUser\.kolibri\content\storage\f\2\f2912edc0aa959aef81093442ec715f0.jpg
+    "Content databases in content\databases"
+    C:\Users\IEUser\.kolibri\content\databases\8ca4d9403d4d5d938b4aa498a24c8177.sqlite3
+    C:\Users\IEUser\.kolibri\content\databases\wmic.txt
+    "Media drive contents"
+    No Instance(s) Available.
+
+
+After deleting the `8ca4d9403d4d5d938b4aa498a24c8177` channel
+
+
+    This script will print info about current Kolibri installation
+    "Your HOMEDRIVE\HOMEPATH is C:\Users\IEUser"
+    "The Kolibri configs directory is C:\Users\IEUser\.kolibri"
+    "The Kolibri content directory is C:\Users\IEUser\.kolibri\content"
+    Files in your .kolibri/ directory:
+    ContentNode Files in content\storage:
+    C:\Users\IEUser\.kolibri\content\storage\1\f\1fd2d82e60815bd7d6cadc9779b261f0.jpg
+    C:\Users\IEUser\.kolibri\content\storage\2\9\29987069c96377233c0b0b880b8e4a41.perseus
+    C:\Users\IEUser\.kolibri\content\storage\3\a\3a7ee5710c379e2a4bb888a1da57353f.mp4
+    C:\Users\IEUser\.kolibri\content\storage\4\5\4570debb15acd6f4305ac45cabb2bad6.png
+    C:\Users\IEUser\.kolibri\content\storage\4\c\4c11bff357b35bf30fa975fb246fdc45.pdf
+    C:\Users\IEUser\.kolibri\content\storage\4\c\4c4ddad6951ed68ed8875f6f5991c2ee.mp4
+    C:\Users\IEUser\.kolibri\content\storage\6\1\61025280a2a23201186ca365e9734476.pdf
+    C:\Users\IEUser\.kolibri\content\storage\9\6\96d4f3bab26d9e9dd808f916d8991f82.jpg
+    C:\Users\IEUser\.kolibri\content\storage\a\2\a2a7aed34e8a17e11f52790ebae1289d.png
+    C:\Users\IEUser\.kolibri\content\storage\b\0\b0dd3f53b17ac0e39a5e7c960e3665a4.jpg
+    C:\Users\IEUser\.kolibri\content\storage\b\e\be6f36d201f1d1f7dc227a55ed140b09.perseus
+    C:\Users\IEUser\.kolibri\content\storage\c\4\c48342389ac0302a7ef816b83a4c3998.mp3
+    C:\Users\IEUser\.kolibri\content\storage\d\7\d783a2cae196691493065e73feeaec82.perseus
+    C:\Users\IEUser\.kolibri\content\storage\d\c\dc33e5130077aa99d5b67723063f0ab9.zip
+    C:\Users\IEUser\.kolibri\content\storage\e\1\e1e9fefb1233b79a7a9bbb57566cda8e.mp4
+    C:\Users\IEUser\.kolibri\content\storage\e\4\e49dad5070c0d24cba1f48efe75e21a2.jpg
+    C:\Users\IEUser\.kolibri\content\storage\f\2\f2912edc0aa959aef81093442ec715f0.jpg
+    Content databases in content\databases:
+    C:\Users\IEUser\.kolibri\content\databases\8ca4d9403d4d5d938b4aa498a24c8177.sqlite3
+    C:\Users\IEUser\.kolibri\content\databases\wmic.txt
+    Media drive contents:
+
+
+
+Observation: it seems channel DB and storage is not deleted when DELETE used in Kolibri UI.
+
+

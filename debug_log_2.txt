@@ -1,0 +1,83 @@
+
+Deleting all content from Kolibri:
+
+  - channel removed from UI
+  - deleted all files in content/storage
+  - deleted db file in content/databases/ (had to stop kolibri to delete file)
+
+
+Before importing channel from USB:
+
+    This script will print info about current Kolibri installation
+    "Your HOMEDRIVE\HOMEPATH is C:\Users\IEUser"
+    "The Kolibri configs directory is C:\Users\IEUser\.kolibri"
+    "The Kolibri content directory is C:\Users\IEUser\.kolibri\content"
+    Files in your .kolibri/ directory:
+    ContentNode Files in content\storage:
+    File Not Found
+    Content databases in content\databases:
+    File Not Found
+    Media drive contents:
+    No Instance(s) Available.
+
+During import UI just froze during "Importing from Content Server"
+refreshing the page showed the channel had worked.
+
+
+After import:
+
+    This script will print info about current Kolibri installation
+    "Your HOMEDRIVE\HOMEPATH is C:\Users\IEUser"
+    "The Kolibri configs directory is C:\Users\IEUser\.kolibri"
+    "The Kolibri content directory is C:\Users\IEUser\.kolibri\content"
+    Files in your .kolibri/ directory:
+    ContentNode Files in content\storage:
+    C:\Users\IEUser\.kolibri\content\storage\1\f\1fd2d82e60815bd7d6cadc9779b261f0.jpg
+    C:\Users\IEUser\.kolibri\content\storage\2\9\29987069c96377233c0b0b880b8e4a41.perseus
+    C:\Users\IEUser\.kolibri\content\storage\3\a\3a7ee5710c379e2a4bb888a1da57353f.mp4
+    C:\Users\IEUser\.kolibri\content\storage\4\5\4570debb15acd6f4305ac45cabb2bad6.png
+    C:\Users\IEUser\.kolibri\content\storage\4\c\4c11bff357b35bf30fa975fb246fdc45.pdf
+    C:\Users\IEUser\.kolibri\content\storage\4\c\4c4ddad6951ed68ed8875f6f5991c2ee.mp4
+    C:\Users\IEUser\.kolibri\content\storage\6\1\61025280a2a23201186ca365e9734476.pdf
+    C:\Users\IEUser\.kolibri\content\storage\9\6\96d4f3bab26d9e9dd808f916d8991f82.jpg
+    C:\Users\IEUser\.kolibri\content\storage\a\2\a2a7aed34e8a17e11f52790ebae1289d.png
+    C:\Users\IEUser\.kolibri\content\storage\b\0\b0dd3f53b17ac0e39a5e7c960e3665a4.jpg
+    C:\Users\IEUser\.kolibri\content\storage\b\e\be6f36d201f1d1f7dc227a55ed140b09.perseus
+    C:\Users\IEUser\.kolibri\content\storage\c\4\c48342389ac0302a7ef816b83a4c3998.mp3
+    C:\Users\IEUser\.kolibri\content\storage\d\7\d783a2cae196691493065e73feeaec82.perseus
+    C:\Users\IEUser\.kolibri\content\storage\d\c\dc33e5130077aa99d5b67723063f0ab9.zip
+    C:\Users\IEUser\.kolibri\content\storage\e\1\e1e9fefb1233b79a7a9bbb57566cda8e.mp4
+    C:\Users\IEUser\.kolibri\content\storage\e\4\e49dad5070c0d24cba1f48efe75e21a2.jpg
+    C:\Users\IEUser\.kolibri\content\storage\f\2\f2912edc0aa959aef81093442ec715f0.jpg
+    Content databases in content\databases:
+    C:\Users\IEUser\.kolibri\content\databases\8ca4d9403d4d5d938b4aa498a24c8177.sqlite3
+    Media drive contents:
+    F:
+    F:\KOLIBRI_DATA\content\databases\8ca4d9403d4d5d938b4aa498a24c8177.sqlite3
+    F:\KOLIBRI_DATA\content\storage\a\2\a2a7aed34e8a17e11f52790ebae1289d.png
+    F:\KOLIBRI_DATA\content\storage\4\c\4c4ddad6951ed68ed8875f6f5991c2ee.mp4
+    F:\KOLIBRI_DATA\content\storage\4\c\4c11bff357b35bf30fa975fb246fdc45.pdf
+    F:\KOLIBRI_DATA\content\storage\4\5\4570debb15acd6f4305ac45cabb2bad6.png
+    F:\KOLIBRI_DATA\content\storage\e\1\e1e9fefb1233b79a7a9bbb57566cda8e.mp4
+    F:\KOLIBRI_DATA\content\storage\e\4\e49dad5070c0d24cba1f48efe75e21a2.jpg
+    F:\KOLIBRI_DATA\content\storage\3\a\._3a7ee5710c379e2a4bb888a1da57353f.mp4
+    F:\KOLIBRI_DATA\content\storage\3\a\3a7ee5710c379e2a4bb888a1da57353f.mp4
+    F:\KOLIBRI_DATA\content\storage\c\4\c48342389ac0302a7ef816b83a4c3998.mp3
+    F:\KOLIBRI_DATA\content\storage\b\0\b0dd3f53b17ac0e39a5e7c960e3665a4.jpg
+    F:\KOLIBRI_DATA\content\storage\b\e\be6f36d201f1d1f7dc227a55ed140b09.perseus
+    F:\KOLIBRI_DATA\content\storage\9\6\96d4f3bab26d9e9dd808f916d8991f82.jpg
+    F:\KOLIBRI_DATA\content\storage\d\7\d783a2cae196691493065e73feeaec82.perseus
+    F:\KOLIBRI_DATA\content\storage\d\c\dc33e5130077aa99d5b67723063f0ab9.zip
+    F:\KOLIBRI_DATA\content\storage\1\f\1fd2d82e60815bd7d6cadc9779b261f0.jpg
+    F:\KOLIBRI_DATA\content\storage\2\9\29987069c96377233c0b0b880b8e4a41.perseus
+    F:\KOLIBRI_DATA\content\storage\6\1\61025280a2a23201186ca365e9734476.pdf
+    F:\KOLIBRI_DATA\content\storage\f\2\f2912edc0aa959aef81093442ec715f0.jpg
+
+
+Confirmed the USB stick cannot be removed because still being accessed by kolibri.
+
+
+Temporary workaround: stop kolirbi, then safely remove USB stick.
+
+
+
